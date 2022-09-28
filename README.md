@@ -1,4 +1,8 @@
 ## <div align="center"> __👋 Welcome 👋__ </div>
+<div align="center"><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeungHoe&count_bg=%23AFAFB2&title_bg=%234A6BD6&icon=apachespark.svg&icon_color=%23DBE539&title=Visit&edge_flat=false)](https://github.com/YunSeungHoe)
+</div><br>
 
 ### <div align="center"> __🛠 Tech Stacks 🛠__ </div> 
 <div align="center">
@@ -19,12 +23,13 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-</div> 
-<div align="center"> </div> 
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><br>
+</div><br>
 
-[![Hits](https://github.com/YunSeungHoe/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23969691&title_bg=%23D3C9B5&icon=apachespark.svg&icon_color=%23DDEF39&title=Visit&edge_flat=false)](https://github.com/YunSeungHoe)
+<div align="center">
 
-![Seunghoe Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunSeungHoe&theme=dark&show_icons=true&)
+[![Seunghoe Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunSeungHoe&count_private=true&theme=dark&show_icons=true&)](https://github.com/YunSeungHoe)<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSeungHoe&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunSeungHoe&langs_count=5&theme=dark&layout=compact)](https://github.com/YunSeungHoe)
+</div>
+
