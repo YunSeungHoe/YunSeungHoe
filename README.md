@@ -1,4 +1,4 @@
-<div align ="center"> <img src="./images/hello1.png" width="800" height="300"></div>
+<div align ="center"> <img src="./images/hello1.png" width="1000" height="500"></div>
 
 ## <div align="center"> __👋 Welcome 👋__ </div>
 <div align="center"><br>
